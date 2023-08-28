@@ -17,7 +17,7 @@
 ## Models License
 | Model | License
 | --- | --- |
-
+chinese-llama2-7b-4bit | https://ai.meta.com/llama/
 
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/chinese-text-generation-webui-colab/blob/main/chinese-baichuan-7b.ipynb) | chinese-baichuan-7b <br /> https://github.com/baichuan-inc/Baichuan-7B <br /> https://huggingface.co/baichuan-inc/Baichuan-7B
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/chinese-text-generation-webui-colab/blob/main/chinese-baichuan-13b-chat.ipynb) | chinese-baichuan-13b-chat <br /> https://github.com/baichuan-inc/Baichuan-7B <br /> https://huggingface.co/baichuan-inc/Baichuan-13B-Chat
