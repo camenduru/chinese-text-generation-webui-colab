@@ -14,6 +14,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/chinese-llama2-7b.ipynb) | chinese-llama2-7b <br /> https://ai.meta.com/llama/ <br /> https://huggingface.co/LinkSoul/Chinese-Llama-2-7b -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/chinese-llama2-7b-4bit.ipynb) | chinese-llama2-7b-4bit <br /> https://ai.meta.com/llama/ <br /> https://huggingface.co/LinkSoul/Chinese-Llama-2-7b-4bit
 
+
+
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
 
