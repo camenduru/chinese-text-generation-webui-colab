@@ -7,7 +7,7 @@
 ## 🦒 Colab
 | colab | Info - Model Page
 | --- | --- |
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/chinese-qwenlm-vl-chat-7b.ipynb) | chinese-qwenlm-vl-chat <br /> https://github.com/QwenLM/Qwen-VL <br /> https://huggingface.co/Qwen/Qwen-VL-Chat -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/japanese-text-generation-webui-colab/blob/main/chinese-baichuan-7b.ipynb) | chinese-baichuan-7b <br /> https://github.com/baichuan-inc/Baichuan-7B <br /> https://huggingface.co/baichuan-inc/Baichuan-7B
 
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (Thanks to @oobabooga ❤)
